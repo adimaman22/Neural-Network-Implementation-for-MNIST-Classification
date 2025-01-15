@@ -67,7 +67,7 @@ The network has a four-layer architecture:
 ## Contributors
 
 - **Adi Maman** - [Email](mailto:adimaman22@gmail.com)
-- **Eran Fishbein** - [Email](mailto:"eranfish76@gmail.com" <eranfish76@gmail.com>)
+- **Eran Fishbein** - [Email](mailto:eranfish76@gmail.com)
 
 For detailed information about the implementation, refer to the [project report](https://github.com/adimaman22/Neural-Network-Implementation-for-MNIST-Classification/blob/main/Neural%20Network%20Implementation%20for%20MNIST%20Classification%20-%20report.pdf).
 
